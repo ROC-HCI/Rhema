@@ -27,5 +27,6 @@ Compiled version of various prototypes and the backend
 Citing Rhema
 ------------
 If you use Rhema in your research, please cite our paper:
+
 M. Iftekhar Tanveer, Emy Lin, and Mohammed (Ehsan) Hoque. Rhema: A Real-Time In-Situ Intelligent Interface to Help People with Public Speaking, In Proceedings of the 20th ACM Conference on Intelligent User Interfaces (IUI’15), Atlanta, GA, USA, 2015
 
