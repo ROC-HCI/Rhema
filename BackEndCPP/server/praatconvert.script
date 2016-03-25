@@ -1,0 +1,3 @@
+Read Sound from raw 16-bit Little Endian file: "E:\Laboratory\GitRepos\ROCSpeakGlass\BackEndCPP\server\audioChunk.raw"
+Resample: 44100, 50
+Save as WAV file: "E:\Laboratory\GitRepos\ROCSpeakGlass\BackEndCPP\server\audioChunk_44100.wav"
