@@ -1,4 +1,4 @@
-Rhama
+Rhema
 =====
 
 Rhema is a Google Glass based project to help people in public speaking. Rhema was developed at the ROC-HCI lab in University of Rochester. Please check the following website for project details:
